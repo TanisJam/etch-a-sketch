@@ -6,6 +6,6 @@ ETCH-A-SKETCH for The Odin Project
 
 - [x] Create a basic grid with JS with a variable side
 - [x] Add mouseover behavior
-- [ ] Add button to reset and recreate with new side
-- [ ] Add RGB values
-- [ ] Add 10% of black passes
+- [x] Add button to reset and recreate with new side
+- [x] Add RGB values
+- [x] Add 10% of black passes
