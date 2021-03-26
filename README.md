@@ -1,6 +1,8 @@
 # etch-a-sketch
 ETCH-A-SKETCH for The Odin Project
 
+LIVE: https://tanisjam.github.io/etch-a-sketch/
+
 
 ## Todo
 
